@@ -1,3 +1,3 @@
 # GitHubDektop_Demo
 
-1. Edit crom well
+1. Edit from web
